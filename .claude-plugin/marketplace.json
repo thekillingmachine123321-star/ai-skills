@@ -1,0 +1,5 @@
+{
+  "name": "ai-skills",
+  "owner": { "name": "thekillingmachine123321-star" },
+  "plugins": [{ "name": "haiku-reader", "source": "./" }]
+}

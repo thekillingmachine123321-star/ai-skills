@@ -1,0 +1,5 @@
+{
+  "name": "haiku-reader",
+  "version": "0.1.0",
+  "description": "A Haiku helper agent that reads and searches files and reports back, so Opus spends its context on reasoning"
+}
